@@ -20,7 +20,7 @@
 // interface IList<T> {
 //   elements: T[];
 //   add(element: T): void;
-//   // new (year: T): void; // constructor
+//   // new (year: T): void; // constructor 
 // }
 // class List implements IList<string> {
 //   elements: string[] = [];
